@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+outputs/
+franka_emika_panda/lab2_runtime_shelves.xml
