@@ -1,0 +1,14 @@
+{
+  "simulation_only": true,
+  "scripted_attachment": true,
+  "status": "passed",
+  "checks": {
+    "offline": {
+      "status": "passed",
+      "tests_run": 29,
+      "failures": [],
+      "errors": [],
+      "skipped": []
+    }
+  }
+}

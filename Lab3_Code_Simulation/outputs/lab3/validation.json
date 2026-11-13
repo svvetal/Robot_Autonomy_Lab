@@ -1,0 +1,29 @@
+{
+  "simulation_only": true,
+  "scripted_attachment": true,
+  "validation_scope": "mujoco_requested",
+  "python_version": "3.12.14",
+  "checks": {
+    "offline": {
+      "status": "passed",
+      "tests_run": 29,
+      "failures": [],
+      "errors": [],
+      "skipped": []
+    },
+    "patterns_with_reset": {
+      "status": "failed",
+      "reason": "ImportError: Install MuJoCo: python -m pip install -r requirements.txt"
+    },
+    "pattern_transitions": {
+      "status": "failed",
+      "reason": "ImportError: Install MuJoCo: python -m pip install -r requirements.txt"
+    },
+    "adjacent_pairs": {
+      "status": "failed",
+      "reason": "ImportError: Install MuJoCo: python -m pip install -r requirements.txt"
+    }
+  },
+  "elapsed_seconds": 3.7790187840000726,
+  "status": "failed"
+}

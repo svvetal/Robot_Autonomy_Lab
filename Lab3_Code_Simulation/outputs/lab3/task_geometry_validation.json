@@ -1,0 +1,317 @@
+{
+  "scope": "Task planning and local gripper geometry only; MuJoCo whole-arm execution not run",
+  "standalone": [
+    {
+      "pattern": "pickaxe",
+      "status": "solved",
+      "moves": [
+        {
+          "color": "B",
+          "source": "B2",
+          "destination": "G01"
+        },
+        {
+          "color": "R",
+          "source": "R1",
+          "destination": "G11"
+        },
+        {
+          "color": "B",
+          "source": "B3",
+          "destination": "G00"
+        },
+        {
+          "color": "R",
+          "source": "R2",
+          "destination": "G21"
+        },
+        {
+          "color": "B",
+          "source": "B1",
+          "destination": "G02"
+        }
+      ],
+      "expansions": 5,
+      "explored_states": 239,
+      "reason": "",
+      "infeasibility_certificate": null
+    },
+    {
+      "pattern": "axe",
+      "status": "infeasible",
+      "moves": [],
+      "expansions": 0,
+      "explored_states": 1,
+      "reason": "A mutually blocked cluster has no reversible construction under the supported top-grasp geometry. The assignment permits skipping it.",
+      "infeasibility_certificate": {
+        "model": "original Panda finger collision hull and five fingertip pads",
+        "scope": "supported conservative vertical face-grasp model; not arbitrary manipulation",
+        "yaw_degrees": [
+          0.0,
+          90.0,
+          180.0,
+          270.0
+        ],
+        "height_offsets_m": [
+          0.0,
+          0.007,
+          0.011
+        ],
+        "pickup_half_opening_m": 0.024,
+        "release_half_opening_m": 0.0215,
+        "required_cells": [
+          "G00",
+          "G01",
+          "G10",
+          "G11",
+          "G21"
+        ],
+        "blocked_cells": [
+          "G00",
+          "G01",
+          "G10",
+          "G11"
+        ],
+        "removal_order_exists": false,
+        "test": "greedy obstacle removal; accessibility is monotone under removal"
+      }
+    },
+    {
+      "pattern": "box",
+      "status": "solved",
+      "moves": [
+        {
+          "color": "B",
+          "source": "B1",
+          "destination": "G20"
+        },
+        {
+          "color": "B",
+          "source": "B2",
+          "destination": "G00"
+        },
+        {
+          "color": "R",
+          "source": "R1",
+          "destination": "G12"
+        },
+        {
+          "color": "R",
+          "source": "R2",
+          "destination": "G10"
+        },
+        {
+          "color": "B",
+          "source": "B3",
+          "destination": "G02"
+        },
+        {
+          "color": "R",
+          "source": "R3",
+          "destination": "G01"
+        },
+        {
+          "color": "B",
+          "source": "B0",
+          "destination": "G22"
+        },
+        {
+          "color": "R",
+          "source": "R0",
+          "destination": "G21"
+        }
+      ],
+      "expansions": 58,
+      "explored_states": 1074,
+      "reason": "",
+      "infeasibility_certificate": null
+    },
+    {
+      "pattern": "bow",
+      "status": "solved",
+      "moves": [
+        {
+          "color": "B",
+          "source": "B1",
+          "destination": "G20"
+        },
+        {
+          "color": "B",
+          "source": "B2",
+          "destination": "G00"
+        },
+        {
+          "color": "B",
+          "source": "B3",
+          "destination": "G10"
+        },
+        {
+          "color": "R",
+          "source": "R1",
+          "destination": "G21"
+        },
+        {
+          "color": "R",
+          "source": "R2",
+          "destination": "G01"
+        },
+        {
+          "color": "R",
+          "source": "R3",
+          "destination": "G12"
+        }
+      ],
+      "expansions": 6,
+      "explored_states": 273,
+      "reason": "",
+      "infeasibility_certificate": null
+    }
+  ],
+  "transitions": [
+    {
+      "pattern": "pickaxe",
+      "status": "solved",
+      "moves": [
+        {
+          "color": "B",
+          "source": "B2",
+          "destination": "G01"
+        },
+        {
+          "color": "R",
+          "source": "R1",
+          "destination": "G11"
+        },
+        {
+          "color": "B",
+          "source": "B3",
+          "destination": "G00"
+        },
+        {
+          "color": "R",
+          "source": "R2",
+          "destination": "G21"
+        },
+        {
+          "color": "B",
+          "source": "B1",
+          "destination": "G02"
+        }
+      ],
+      "expansions": 5,
+      "explored_states": 239,
+      "reason": "",
+      "infeasibility_certificate": null
+    },
+    {
+      "pattern": "axe",
+      "status": "infeasible",
+      "moves": [],
+      "expansions": 0,
+      "explored_states": 1,
+      "reason": "A mutually blocked cluster has no reversible construction under the supported top-grasp geometry. The assignment permits skipping it.",
+      "infeasibility_certificate": {
+        "model": "original Panda finger collision hull and five fingertip pads",
+        "scope": "supported conservative vertical face-grasp model; not arbitrary manipulation",
+        "yaw_degrees": [
+          0.0,
+          90.0,
+          180.0,
+          270.0
+        ],
+        "height_offsets_m": [
+          0.0,
+          0.007,
+          0.011
+        ],
+        "pickup_half_opening_m": 0.024,
+        "release_half_opening_m": 0.0215,
+        "required_cells": [
+          "G00",
+          "G01",
+          "G10",
+          "G11",
+          "G21"
+        ],
+        "blocked_cells": [
+          "G00",
+          "G01",
+          "G10",
+          "G11"
+        ],
+        "removal_order_exists": false,
+        "test": "greedy obstacle removal; accessibility is monotone under removal"
+      }
+    },
+    {
+      "pattern": "box",
+      "status": "solved",
+      "moves": [
+        {
+          "color": "B",
+          "source": "B0",
+          "destination": "G20"
+        },
+        {
+          "color": "R",
+          "source": "G11",
+          "destination": "G10"
+        },
+        {
+          "color": "B",
+          "source": "G01",
+          "destination": "G22"
+        },
+        {
+          "color": "R",
+          "source": "R3",
+          "destination": "G12"
+        },
+        {
+          "color": "R",
+          "source": "R0",
+          "destination": "G01"
+        }
+      ],
+      "expansions": 27,
+      "explored_states": 461,
+      "reason": "",
+      "infeasibility_certificate": null
+    },
+    {
+      "pattern": "bow",
+      "status": "solved",
+      "moves": [
+        {
+          "color": "R",
+          "source": "G10",
+          "destination": "R2"
+        },
+        {
+          "color": "R",
+          "source": "G12",
+          "destination": "R1"
+        },
+        {
+          "color": "B",
+          "source": "G02",
+          "destination": "G10"
+        },
+        {
+          "color": "B",
+          "source": "G22",
+          "destination": "B1"
+        },
+        {
+          "color": "R",
+          "source": "R1",
+          "destination": "G12"
+        }
+      ],
+      "expansions": 200,
+      "explored_states": 1913,
+      "reason": "",
+      "infeasibility_certificate": null
+    }
+  ]
+}
