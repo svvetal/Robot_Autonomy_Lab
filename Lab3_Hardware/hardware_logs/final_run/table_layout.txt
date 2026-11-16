@@ -1,0 +1,24 @@
+Cube-centre coordinates in the robot base frame (metres):
+  g00  x=0.555  y=+0.055  z=0.0350   start: empty
+  g01  x=0.555  y=+0.000  z=0.0350   start: empty
+  g02  x=0.555  y=-0.055  z=0.0350   start: empty
+  g10  x=0.500  y=+0.055  z=0.0350   start: empty
+  g11  x=0.500  y=+0.000  z=0.0350   start: empty
+  g12  x=0.500  y=-0.055  z=0.0350   start: empty
+  g20  x=0.445  y=+0.055  z=0.0350   start: empty
+  g21  x=0.445  y=+0.000  z=0.0350   start: empty
+  g22  x=0.445  y=-0.055  z=0.0350   start: empty
+  sb0  x=0.620  y=-0.170  z=0.0350   start: blue0 (blue)
+  sb1  x=0.540  y=-0.170  z=0.0350   start: blue1 (blue)
+  sb2  x=0.460  y=-0.170  z=0.0350   start: blue2 (blue)
+  sb3  x=0.380  y=-0.170  z=0.0350   start: blue3 (blue)
+  sr0  x=0.620  y=+0.170  z=0.0350   start: red0 (red)
+  sr1  x=0.540  y=+0.170  z=0.0350   start: red1 (red)
+  sr2  x=0.460  y=+0.170  z=0.0350   start: red2 (red)
+  sr3  x=0.380  y=+0.170  z=0.0350   start: red3 (red)
+   far side (+x)
+ R   ...   B
+ R   ...   B
+ R   ...   B
+ R         B
+  left(+y)  right(-y)   [robot]

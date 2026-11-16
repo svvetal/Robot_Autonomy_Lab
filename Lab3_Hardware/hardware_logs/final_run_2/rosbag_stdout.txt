@@ -1,0 +1,3 @@
+[0m[ INFO] [1794858191.310088670]: Subscribing to /franka_interface_status_publisher_node_1/franka_interface_status[0m
+[0m[ INFO] [1794858191.311382580]: Subscribing to /robot_state_publisher_node_1/robot_state[0m
+[0m[ INFO] [1794858191.312394199]: Recording to 'logs/final_run_2/robot_state.bag'.[0m

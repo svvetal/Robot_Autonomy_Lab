@@ -1,0 +1,127 @@
+{"utc": "2026-11-16T19:44:02.588694+00:00", "status": "session_started", "patterns": ["pickaxe", "axe", "box", "bow"], "time_scale": 1.0, "motion": "waypoints"}
+{"utc": "2026-11-16T19:44:06.211981+00:00", "pattern": "pickaxe", "event": 0, "move": "pick_sb3_approach", "tool_err_m": 0.0004852027084840384, "tool_err_rad": 0.0044636173277047275}
+{"utc": "2026-11-16T19:44:08.491707+00:00", "pattern": "pickaxe", "event": 1, "move": "pick_sb3_descend", "tool_err_m": 0.0004559490433739992, "tool_err_rad": 0.004444396729965744}
+{"utc": "2026-11-16T19:44:10.563044+00:00", "pattern": "pickaxe", "event": 2, "grip": "close", "block": "blue3", "cell": "sb3", "width_m": 0.04233136028051376}
+{"utc": "2026-11-16T19:44:12.847298+00:00", "pattern": "pickaxe", "event": 3, "move": "pick_sb3_lift", "tool_err_m": 0.000574360112799053, "tool_err_rad": 0.004396701685010475}
+{"utc": "2026-11-16T19:44:16.561649+00:00", "pattern": "pickaxe", "event": 4, "move": "place_g02_transport", "tool_err_m": 0.0006507946052014365, "tool_err_rad": 0.004535275184345401}
+{"utc": "2026-11-16T19:44:18.328002+00:00", "pattern": "pickaxe", "event": 5, "move": "place_g02_descend", "tool_err_m": 0.0008124426279497415, "tool_err_rad": 0.004641772917517083}
+{"utc": "2026-11-16T19:44:20.349106+00:00", "pattern": "pickaxe", "event": 6, "grip": "open", "block": "blue3", "cell": "g02", "width_m": 0.05986107513308525}
+{"utc": "2026-11-16T19:44:22.112442+00:00", "pattern": "pickaxe", "event": 7, "move": "place_g02_retreat", "tool_err_m": 0.0008121612386577261, "tool_err_rad": 0.004394215243689183}
+{"utc": "2026-11-16T19:44:23.608434+00:00", "pattern": "pickaxe", "event": 8, "move": "pick_sb0_approach", "tool_err_m": 0.0006856361723146675, "tool_err_rad": 0.004398815675033503}
+{"utc": "2026-11-16T19:44:25.216793+00:00", "pattern": "pickaxe", "event": 9, "move": "pick_sb0_descend", "tool_err_m": 0.0006149529841749667, "tool_err_rad": 0.004510637244559758}
+{"utc": "2026-11-16T19:44:27.258962+00:00", "pattern": "pickaxe", "event": 10, "grip": "close", "block": "blue0", "cell": "sb0", "width_m": 0.04143894836306572}
+{"utc": "2026-11-16T19:44:28.829735+00:00", "pattern": "pickaxe", "event": 11, "move": "pick_sb0_lift", "tool_err_m": 0.000986645648125123, "tool_err_rad": 0.004408620775563427}
+{"utc": "2026-11-16T19:44:30.343927+00:00", "pattern": "pickaxe", "event": 12, "move": "place_g00_transport", "tool_err_m": 0.0009277201674340187, "tool_err_rad": 0.004607790356306112}
+{"utc": "2026-11-16T19:44:32.257382+00:00", "pattern": "pickaxe", "event": 13, "move": "place_g00_descend", "tool_err_m": 0.0006230378581987165, "tool_err_rad": 0.004514341170171142}
+{"utc": "2026-11-16T19:44:34.277807+00:00", "pattern": "pickaxe", "event": 14, "grip": "open", "block": "blue0", "cell": "g00", "width_m": 0.0598735548555851}
+{"utc": "2026-11-16T19:44:36.047475+00:00", "pattern": "pickaxe", "event": 15, "move": "place_g00_retreat", "tool_err_m": 0.001013776146586891, "tool_err_rad": 0.0044202755153241804}
+{"utc": "2026-11-16T19:44:39.169193+00:00", "pattern": "pickaxe", "event": 16, "move": "pick_sb2_approach", "tool_err_m": 0.0006940227948763808, "tool_err_rad": 0.004541826315637241}
+{"utc": "2026-11-16T19:44:42.136385+00:00", "pattern": "pickaxe", "event": 17, "move": "pick_sb2_descend", "tool_err_m": 0.0005314061745670022, "tool_err_rad": 0.004483541297842513}
+{"utc": "2026-11-16T19:44:44.157846+00:00", "pattern": "pickaxe", "event": 18, "grip": "close", "block": "blue2", "cell": "sb2", "width_m": 0.041031815111637115}
+{"utc": "2026-11-16T19:44:47.107847+00:00", "pattern": "pickaxe", "event": 19, "move": "pick_sb2_lift", "tool_err_m": 0.0006490172920785956, "tool_err_rad": 0.004405906423154627}
+{"utc": "2026-11-16T19:44:50.623523+00:00", "pattern": "pickaxe", "event": 20, "move": "place_g01_transport", "tool_err_m": 0.000691592123960174, "tool_err_rad": 0.0044108384585019155}
+{"utc": "2026-11-16T19:44:52.343073+00:00", "pattern": "pickaxe", "event": 21, "move": "place_g01_descend", "tool_err_m": 0.0003544510834369673, "tool_err_rad": 0.004435249293544764}
+{"utc": "2026-11-16T19:44:54.375245+00:00", "pattern": "pickaxe", "event": 22, "grip": "open", "block": "blue2", "cell": "g01", "width_m": 0.05989653617143631}
+{"utc": "2026-11-16T19:44:56.005854+00:00", "pattern": "pickaxe", "event": 23, "move": "place_g01_retreat", "tool_err_m": 0.0009017872852872277, "tool_err_rad": 0.004409649749167662}
+{"utc": "2026-11-16T19:44:59.616374+00:00", "pattern": "pickaxe", "event": 24, "move": "pick_sr0_approach", "tool_err_m": 0.0005799614890347561, "tool_err_rad": 0.004438247975069018}
+{"utc": "2026-11-16T19:45:01.256438+00:00", "pattern": "pickaxe", "event": 25, "move": "pick_sr0_descend", "tool_err_m": 0.0007708862838792981, "tool_err_rad": 0.004594204111302179}
+{"utc": "2026-11-16T19:45:03.277220+00:00", "pattern": "pickaxe", "event": 26, "grip": "close", "block": "red0", "cell": "sr0", "width_m": 0.042061470448970795}
+{"utc": "2026-11-16T19:45:04.867560+00:00", "pattern": "pickaxe", "event": 27, "move": "pick_sr0_lift", "tool_err_m": 0.001398781621630137, "tool_err_rad": 0.0045121857677310655}
+{"utc": "2026-11-16T19:45:07.446074+00:00", "pattern": "pickaxe", "event": 28, "move": "place_g21_transport", "tool_err_m": 0.0006863726866622635, "tool_err_rad": 0.004531227564652597}
+{"utc": "2026-11-16T19:45:09.625322+00:00", "pattern": "pickaxe", "event": 29, "move": "place_g21_descend", "tool_err_m": 0.0008582398635767862, "tool_err_rad": 0.0046466410246013305}
+{"utc": "2026-11-16T19:45:11.645318+00:00", "pattern": "pickaxe", "event": 30, "grip": "open", "block": "red0", "cell": "g21", "width_m": 0.059909671545028687}
+{"utc": "2026-11-16T19:45:13.811595+00:00", "pattern": "pickaxe", "event": 31, "move": "place_g21_retreat", "tool_err_m": 0.00059232290114348, "tool_err_rad": 0.004401386251690797}
+{"utc": "2026-11-16T19:45:15.133056+00:00", "pattern": "pickaxe", "event": 32, "move": "pick_sr2_approach", "tool_err_m": 0.000624394373798023, "tool_err_rad": 0.004417545336957099}
+{"utc": "2026-11-16T19:45:17.120254+00:00", "pattern": "pickaxe", "event": 33, "move": "pick_sr2_descend", "tool_err_m": 0.0005714624726209518, "tool_err_rad": 0.004493862341069118}
+{"utc": "2026-11-16T19:45:19.151426+00:00", "pattern": "pickaxe", "event": 34, "grip": "close", "block": "red2", "cell": "sr2", "width_m": 0.041763998568058014}
+{"utc": "2026-11-16T19:45:21.119964+00:00", "pattern": "pickaxe", "event": 35, "move": "pick_sr2_lift", "tool_err_m": 0.0007599054809820058, "tool_err_rad": 0.004391271217365807}
+{"utc": "2026-11-16T19:45:22.650655+00:00", "pattern": "pickaxe", "event": 36, "move": "place_g11_transport", "tool_err_m": 0.0007712810261777659, "tool_err_rad": 0.0044308492417537565}
+{"utc": "2026-11-16T19:45:24.617753+00:00", "pattern": "pickaxe", "event": 37, "move": "place_g11_descend", "tool_err_m": 0.00086454113301275, "tool_err_rad": 0.004628121659185304}
+{"utc": "2026-11-16T19:45:26.638752+00:00", "pattern": "pickaxe", "event": 38, "grip": "open", "block": "red2", "cell": "g11", "width_m": 0.059893254190683365}
+{"utc": "2026-11-16T19:45:28.575403+00:00", "pattern": "pickaxe", "event": 39, "move": "place_g11_retreat", "tool_err_m": 0.0009100070120574489, "tool_err_rad": 0.004418441073255917}
+{"utc": "2026-11-16T19:45:28.575863+00:00", "pattern": "pickaxe", "status": "completed"}
+{"utc": "2026-11-16T19:45:28.576111+00:00", "pattern": "axe", "status": "skipped_infeasible"}
+{"utc": "2026-11-16T19:45:32.195068+00:00", "pattern": "box", "event": 0, "move": "pick_sb1_approach", "tool_err_m": 0.0006147134337314528, "tool_err_rad": 0.004530113132125752}
+{"utc": "2026-11-16T19:45:33.923183+00:00", "pattern": "box", "event": 1, "move": "pick_sb1_descend", "tool_err_m": 0.0006468252516385422, "tool_err_rad": 0.004525552296275709}
+{"utc": "2026-11-16T19:45:35.984879+00:00", "pattern": "box", "event": 2, "grip": "close", "block": "blue1", "cell": "sb1", "width_m": 0.04229918494820595}
+{"utc": "2026-11-16T19:45:37.787009+00:00", "pattern": "box", "event": 3, "move": "pick_sb1_lift", "tool_err_m": 0.001312818755253267, "tool_err_rad": 0.004529336533542822}
+{"utc": "2026-11-16T19:45:39.686391+00:00", "pattern": "box", "event": 4, "move": "place_g20_transport", "tool_err_m": 0.0012735839039319074, "tool_err_rad": 0.005003022741845874}
+{"utc": "2026-11-16T19:45:41.847425+00:00", "pattern": "box", "event": 5, "move": "place_g20_descend", "tool_err_m": 0.0007147770292070102, "tool_err_rad": 0.004571877076108548}
+{"utc": "2026-11-16T19:45:43.868240+00:00", "pattern": "box", "event": 6, "grip": "open", "block": "blue1", "cell": "g20", "width_m": 0.059869613498449326}
+{"utc": "2026-11-16T19:45:46.021483+00:00", "pattern": "box", "event": 7, "move": "place_g20_retreat", "tool_err_m": 0.0010292385514884454, "tool_err_rad": 0.004471994391349797}
+{"utc": "2026-11-16T19:45:50.344101+00:00", "pattern": "box", "event": 8, "move": "pick_g11_approach", "tool_err_m": 0.0005388915313987463, "tool_err_rad": 0.004553147788616267}
+{"utc": "2026-11-16T19:45:52.260150+00:00", "pattern": "box", "event": 9, "move": "pick_g11_descend", "tool_err_m": 0.0004709224522543696, "tool_err_rad": 0.004464945853401409}
+{"utc": "2026-11-16T19:45:54.291755+00:00", "pattern": "box", "event": 10, "grip": "close", "block": "red2", "cell": "g11", "width_m": 0.041797488927841187}
+{"utc": "2026-11-16T19:45:56.231211+00:00", "pattern": "box", "event": 11, "move": "pick_g11_lift", "tool_err_m": 0.0010488914528569147, "tool_err_rad": 0.0044502134585065745}
+{"utc": "2026-11-16T19:45:57.449373+00:00", "pattern": "box", "event": 12, "move": "place_g10_transport", "tool_err_m": 0.0008552028156624708, "tool_err_rad": 0.004424775296378108}
+{"utc": "2026-11-16T19:45:59.351918+00:00", "pattern": "box", "event": 13, "move": "place_g10_descend", "tool_err_m": 0.0005626581785176716, "tool_err_rad": 0.004483874013141216}
+{"utc": "2026-11-16T19:46:01.383068+00:00", "pattern": "box", "event": 14, "grip": "open", "block": "red2", "cell": "g10", "width_m": 0.05986829847097397}
+{"utc": "2026-11-16T19:46:03.310184+00:00", "pattern": "box", "event": 15, "move": "place_g10_retreat", "tool_err_m": 0.0007150056577946113, "tool_err_rad": 0.0044012858999643335}
+{"utc": "2026-11-16T19:46:07.226097+00:00", "pattern": "box", "event": 16, "move": "pick_g01_approach", "tool_err_m": 0.0005777940960078703, "tool_err_rad": 0.004440072078958957}
+{"utc": "2026-11-16T19:46:08.965410+00:00", "pattern": "box", "event": 17, "move": "pick_g01_descend", "tool_err_m": 0.000450410147813624, "tool_err_rad": 0.004448750280912513}
+{"utc": "2026-11-16T19:46:10.986708+00:00", "pattern": "box", "event": 18, "grip": "close", "block": "blue2", "cell": "g01", "width_m": 0.04113556817173958}
+{"utc": "2026-11-16T19:46:12.749558+00:00", "pattern": "box", "event": 19, "move": "pick_g01_lift", "tool_err_m": 0.0008412834948120751, "tool_err_rad": 0.004398280270666432}
+{"utc": "2026-11-16T19:46:14.312029+00:00", "pattern": "box", "event": 20, "move": "place_g22_transport", "tool_err_m": 0.0006546857114730747, "tool_err_rad": 0.004532454240206106}
+{"utc": "2026-11-16T19:46:17.549286+00:00", "pattern": "box", "event": 21, "move": "place_g22_descend", "tool_err_m": 0.0006496147613202984, "tool_err_rad": 0.004534468880448696}
+{"utc": "2026-11-16T19:46:19.590753+00:00", "pattern": "box", "event": 22, "grip": "open", "block": "blue2", "cell": "g22", "width_m": 0.05985451117157936}
+{"utc": "2026-11-16T19:46:22.780306+00:00", "pattern": "box", "event": 23, "move": "place_g22_retreat", "tool_err_m": 0.0005605732146017759, "tool_err_rad": 0.004416351526205066}
+{"utc": "2026-11-16T19:46:26.210195+00:00", "pattern": "box", "event": 24, "move": "pick_sr1_approach", "tool_err_m": 0.0005081544989817725, "tool_err_rad": 0.0044363171185901286}
+{"utc": "2026-11-16T19:46:27.993062+00:00", "pattern": "box", "event": 25, "move": "pick_sr1_descend", "tool_err_m": 0.0005919209499175938, "tool_err_rad": 0.004501248450910506}
+{"utc": "2026-11-16T19:46:30.085552+00:00", "pattern": "box", "event": 26, "grip": "close", "block": "red1", "cell": "sr1", "width_m": 0.04145733639597893}
+{"utc": "2026-11-16T19:46:31.862418+00:00", "pattern": "box", "event": 27, "move": "pick_sr1_lift", "tool_err_m": 0.0008774037105456555, "tool_err_rad": 0.004397248396971679}
+{"utc": "2026-11-16T19:46:35.578081+00:00", "pattern": "box", "event": 28, "move": "place_g01_transport", "tool_err_m": 0.0008723220307386119, "tool_err_rad": 0.004737023763081846}
+{"utc": "2026-11-16T19:46:37.340080+00:00", "pattern": "box", "event": 29, "move": "place_g01_descend", "tool_err_m": 0.0005241795998104503, "tool_err_rad": 0.004474232828128805}
+{"utc": "2026-11-16T19:46:39.371284+00:00", "pattern": "box", "event": 30, "grip": "open", "block": "red1", "cell": "g01", "width_m": 0.059869613498449326}
+{"utc": "2026-11-16T19:46:41.114786+00:00", "pattern": "box", "event": 31, "move": "place_g01_retreat", "tool_err_m": 0.0010319106819609539, "tool_err_rad": 0.004420017964255206}
+{"utc": "2026-11-16T19:46:44.328799+00:00", "pattern": "box", "event": 32, "move": "pick_sr3_approach", "tool_err_m": 0.0006555005265535171, "tool_err_rad": 0.0046689203095045245}
+{"utc": "2026-11-16T19:46:46.630856+00:00", "pattern": "box", "event": 33, "move": "pick_sr3_descend", "tool_err_m": 0.0005278279517387963, "tool_err_rad": 0.004481236324203297}
+{"utc": "2026-11-16T19:46:48.681242+00:00", "pattern": "box", "event": 34, "grip": "close", "block": "red3", "cell": "sr3", "width_m": 0.04167075455188751}
+{"utc": "2026-11-16T19:46:51.064715+00:00", "pattern": "box", "event": 35, "move": "pick_sr3_lift", "tool_err_m": 0.0006193268398090284, "tool_err_rad": 0.004393247915769724}
+{"utc": "2026-11-16T19:46:52.888278+00:00", "pattern": "box", "event": 36, "move": "place_g12_transport", "tool_err_m": 0.0006029877402849747, "tool_err_rad": 0.004416775821080588}
+{"utc": "2026-11-16T19:46:54.858124+00:00", "pattern": "box", "event": 37, "move": "place_g12_descend", "tool_err_m": 0.0005165909877597387, "tool_err_rad": 0.004471183608227774}
+{"utc": "2026-11-16T19:46:56.877271+00:00", "pattern": "box", "event": 38, "grip": "open", "block": "red3", "cell": "g12", "width_m": 0.05985122546553612}
+{"utc": "2026-11-16T19:46:58.808913+00:00", "pattern": "box", "event": 39, "move": "place_g12_retreat", "tool_err_m": 0.0007085620264884179, "tool_err_rad": 0.004389603120990724}
+{"utc": "2026-11-16T19:46:58.809455+00:00", "pattern": "box", "status": "completed"}
+{"utc": "2026-11-16T19:47:00.025621+00:00", "pattern": "bow", "event": 0, "move": "pick_g10_approach", "tool_err_m": 0.0004905012548375118, "tool_err_rad": 0.004443761682180435}
+{"utc": "2026-11-16T19:47:01.953373+00:00", "pattern": "bow", "event": 1, "move": "pick_g10_descend", "tool_err_m": 0.0005010609731216025, "tool_err_rad": 0.00446403646061003}
+{"utc": "2026-11-16T19:47:03.984996+00:00", "pattern": "bow", "event": 2, "grip": "close", "block": "red2", "cell": "g10", "width_m": 0.04176793992519379}
+{"utc": "2026-11-16T19:47:05.912708+00:00", "pattern": "bow", "event": 3, "move": "pick_g10_lift", "tool_err_m": 0.0007719042360326392, "tool_err_rad": 0.0044004638974608715}
+{"utc": "2026-11-16T19:47:07.126670+00:00", "pattern": "bow", "event": 4, "move": "place_sr2_transport", "tool_err_m": 0.0007688768779079906, "tool_err_rad": 0.004543283436633885}
+{"utc": "2026-11-16T19:47:09.105212+00:00", "pattern": "bow", "event": 5, "move": "place_sr2_descend", "tool_err_m": 0.0005396142350637376, "tool_err_rad": 0.004501323035260423}
+{"utc": "2026-11-16T19:47:11.126502+00:00", "pattern": "bow", "event": 6, "grip": "open", "block": "red2", "cell": "sr2", "width_m": 0.059868957847356796}
+{"utc": "2026-11-16T19:47:13.106822+00:00", "pattern": "bow", "event": 7, "move": "place_sr2_retreat", "tool_err_m": 0.0006761371902484226, "tool_err_rad": 0.004403754168188475}
+{"utc": "2026-11-16T19:47:14.730979+00:00", "pattern": "bow", "event": 8, "move": "pick_g12_approach", "tool_err_m": 0.0005830539607138, "tool_err_rad": 0.004424272454069238}
+{"utc": "2026-11-16T19:47:16.695917+00:00", "pattern": "bow", "event": 9, "move": "pick_g12_descend", "tool_err_m": 0.0005415958867463731, "tool_err_rad": 0.00447514981654718}
+{"utc": "2026-11-16T19:47:18.757912+00:00", "pattern": "bow", "event": 10, "grip": "close", "block": "red3", "cell": "g12", "width_m": 0.04182310029864311}
+{"utc": "2026-11-16T19:47:20.740700+00:00", "pattern": "bow", "event": 11, "move": "pick_g12_lift", "tool_err_m": 0.0007726291769322021, "tool_err_rad": 0.004393390502174995}
+{"utc": "2026-11-16T19:47:22.256908+00:00", "pattern": "bow", "event": 12, "move": "place_sr1_transport", "tool_err_m": 0.0007168848268032993, "tool_err_rad": 0.004404479178135133}
+{"utc": "2026-11-16T19:47:23.976215+00:00", "pattern": "bow", "event": 13, "move": "place_sr1_descend", "tool_err_m": 0.0005105254223920009, "tool_err_rad": 0.004481146276890155}
+{"utc": "2026-11-16T19:47:26.058320+00:00", "pattern": "bow", "event": 14, "grip": "open", "block": "red3", "cell": "sr1", "width_m": 0.05985976383090019}
+{"utc": "2026-11-16T19:47:27.850266+00:00", "pattern": "bow", "event": 15, "move": "place_sr1_retreat", "tool_err_m": 0.000845695791582639, "tool_err_rad": 0.004399021910032384}
+{"utc": "2026-11-16T19:47:31.368737+00:00", "pattern": "bow", "event": 16, "move": "pick_g22_approach", "tool_err_m": 0.0007000935438850187, "tool_err_rad": 0.004547753862236499}
+{"utc": "2026-11-16T19:47:33.486187+00:00", "pattern": "bow", "event": 17, "move": "pick_g22_descend", "tool_err_m": 0.0004754030413349666, "tool_err_rad": 0.0044591164591722965}
+{"utc": "2026-11-16T19:47:35.517013+00:00", "pattern": "bow", "event": 18, "grip": "close", "block": "blue2", "cell": "g22", "width_m": 0.04103050380945206}
+{"utc": "2026-11-16T19:47:37.677545+00:00", "pattern": "bow", "event": 19, "move": "pick_g22_lift", "tool_err_m": 0.0006551673299220566, "tool_err_rad": 0.004398540367343912}
+{"utc": "2026-11-16T19:47:41.608273+00:00", "pattern": "bow", "event": 20, "move": "place_g10_transport", "tool_err_m": 0.0006223055583806502, "tool_err_rad": 0.004585084923053425}
+{"utc": "2026-11-16T19:47:43.548799+00:00", "pattern": "bow", "event": 21, "move": "place_g10_descend", "tool_err_m": 0.0006278101741916325, "tool_err_rad": 0.004525080223338308}
+{"utc": "2026-11-16T19:47:45.580364+00:00", "pattern": "bow", "event": 22, "grip": "open", "block": "blue2", "cell": "g10", "width_m": 0.05988011881709099}
+{"utc": "2026-11-16T19:47:47.489305+00:00", "pattern": "bow", "event": 23, "move": "place_g10_retreat", "tool_err_m": 0.0007045781921697785, "tool_err_rad": 0.0043920800461327665}
+{"utc": "2026-11-16T19:47:51.312706+00:00", "pattern": "bow", "event": 24, "move": "pick_g02_approach", "tool_err_m": 0.0004637792933265678, "tool_err_rad": 0.004524548599762868}
+{"utc": "2026-11-16T19:47:53.132009+00:00", "pattern": "bow", "event": 25, "move": "pick_g02_descend", "tool_err_m": 0.0003391517559999005, "tool_err_rad": 0.004425962855021067}
+{"utc": "2026-11-16T19:47:55.163107+00:00", "pattern": "bow", "event": 26, "grip": "close", "block": "blue3", "cell": "g02", "width_m": 0.04197676107287407}
+{"utc": "2026-11-16T19:47:56.924988+00:00", "pattern": "bow", "event": 27, "move": "pick_g02_lift", "tool_err_m": 0.0008121875809184229, "tool_err_rad": 0.0043885724528736686}
+{"utc": "2026-11-16T19:47:58.791316+00:00", "pattern": "bow", "event": 28, "move": "place_sb3_transport", "tool_err_m": 0.0006754053276987132, "tool_err_rad": 0.004505011300935893}
+{"utc": "2026-11-16T19:48:01.144421+00:00", "pattern": "bow", "event": 29, "move": "place_sb3_descend", "tool_err_m": 0.0005692851524331029, "tool_err_rad": 0.004483593647755772}
+{"utc": "2026-11-16T19:48:03.165455+00:00", "pattern": "bow", "event": 30, "grip": "open", "block": "blue3", "cell": "sb3", "width_m": 0.05992740020155907}
+{"utc": "2026-11-16T19:48:05.490334+00:00", "pattern": "bow", "event": 31, "move": "place_sb3_retreat", "tool_err_m": 0.0007286623048157621, "tool_err_rad": 0.004395741609806906}
+{"utc": "2026-11-16T19:48:07.904928+00:00", "pattern": "bow", "event": 32, "move": "pick_sr2_approach", "tool_err_m": 0.0005477794532167434, "tool_err_rad": 0.004545417610061195}
+{"utc": "2026-11-16T19:48:09.877070+00:00", "pattern": "bow", "event": 33, "move": "pick_sr2_descend", "tool_err_m": 0.0005333272797591189, "tool_err_rad": 0.004481642437632263}
+{"utc": "2026-11-16T19:48:11.958933+00:00", "pattern": "bow", "event": 34, "grip": "close", "block": "red2", "cell": "sr2", "width_m": 0.04178566858172417}
+{"utc": "2026-11-16T19:48:13.982157+00:00", "pattern": "bow", "event": 35, "move": "pick_sr2_lift", "tool_err_m": 0.0007346392184657285, "tool_err_rad": 0.004388121695392024}
+{"utc": "2026-11-16T19:48:15.608057+00:00", "pattern": "bow", "event": 36, "move": "place_g12_transport", "tool_err_m": 0.0005721382592564153, "tool_err_rad": 0.004415921069126097}
+{"utc": "2026-11-16T19:48:17.584345+00:00", "pattern": "bow", "event": 37, "move": "place_g12_descend", "tool_err_m": 0.0005946739836038851, "tool_err_rad": 0.004500967723110141}
+{"utc": "2026-11-16T19:48:19.625180+00:00", "pattern": "bow", "event": 38, "grip": "open", "block": "red2", "cell": "g12", "width_m": 0.059869613498449326}
+{"utc": "2026-11-16T19:48:21.537704+00:00", "pattern": "bow", "event": 39, "move": "place_g12_retreat", "tool_err_m": 0.0007181198165636516, "tool_err_rad": 0.00439843147694938}
+{"utc": "2026-11-16T19:48:24.855585+00:00", "pattern": "bow", "event": 40, "move": "return_home", "tool_err_m": 0.0008464037284374644, "tool_err_rad": 0.004434592622697708}
+{"utc": "2026-11-16T19:48:24.855751+00:00", "pattern": "bow", "status": "completed"}
+{"utc": "2026-11-16T19:48:24.857422+00:00", "status": "session_completed"}
