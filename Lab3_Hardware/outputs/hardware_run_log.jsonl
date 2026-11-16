@@ -1,0 +1,129 @@
+{"utc": "2026-11-16T05:46:19.719064+00:00", "status": "session_started", "patterns": ["pickaxe", "axe", "box", "bow"], "time_scale": 1.0, "motion": "stream"}
+{"utc": "2026-11-16T05:46:24.661640+00:00", "pattern": "pickaxe", "event": 0, "move": "pick_sb3_approach", "tool_err_m": 0.0, "tool_err_rad": 5.960464477539064e-08}
+{"utc": "2026-11-16T05:46:27.374102+00:00", "pattern": "pickaxe", "event": 1, "move": "pick_sb3_descend", "tool_err_m": 0.0, "tool_err_rad": 6.664001874625058e-08}
+{"utc": "2026-11-16T05:46:27.375743+00:00", "pattern": "pickaxe", "event": 2, "grip": "close", "block": "blue3", "cell": "sb3", "width_m": 0.04}
+{"utc": "2026-11-16T05:46:30.146624+00:00", "pattern": "pickaxe", "event": 3, "move": "pick_sb3_lift", "tool_err_m": 0.0, "tool_err_rad": 5.960464477539064e-08}
+{"utc": "2026-11-16T05:46:35.023072+00:00", "pattern": "pickaxe", "event": 4, "move": "place_g02_transport", "tool_err_m": 0.0, "tool_err_rad": 8.161702118890975e-08}
+{"utc": "2026-11-16T05:46:36.960824+00:00", "pattern": "pickaxe", "event": 5, "move": "place_g02_descend", "tool_err_m": 0.0, "tool_err_rad": 7.300048299977716e-08}
+{"utc": "2026-11-16T05:46:36.963593+00:00", "pattern": "pickaxe", "event": 6, "grip": "open", "block": "blue3", "cell": "g02", "width_m": 0.06}
+{"utc": "2026-11-16T05:46:38.852200+00:00", "pattern": "pickaxe", "event": 7, "move": "place_g02_retreat", "tool_err_m": 0.0, "tool_err_rad": 8.161702118890975e-08}
+{"utc": "2026-11-16T05:46:40.260287+00:00", "pattern": "pickaxe", "event": 8, "move": "pick_sb0_approach", "tool_err_m": 0.0, "tool_err_rad": 8.429369702178808e-08}
+{"utc": "2026-11-16T05:46:41.921589+00:00", "pattern": "pickaxe", "event": 9, "move": "pick_sb0_descend", "tool_err_m": 0.0, "tool_err_rad": 7.598131170262078e-08}
+{"utc": "2026-11-16T05:46:41.922299+00:00", "pattern": "pickaxe", "event": 10, "grip": "close", "block": "blue0", "cell": "sb0", "width_m": 0.04}
+{"utc": "2026-11-16T05:46:43.634997+00:00", "pattern": "pickaxe", "event": 11, "move": "pick_sb0_lift", "tool_err_m": 0.0, "tool_err_rad": 8.429369702178808e-08}
+{"utc": "2026-11-16T05:46:45.344056+00:00", "pattern": "pickaxe", "event": 12, "move": "place_g00_transport", "tool_err_m": 0.0, "tool_err_rad": 5.960464477539064e-08}
+{"utc": "2026-11-16T05:46:47.272631+00:00", "pattern": "pickaxe", "event": 13, "move": "place_g00_descend", "tool_err_m": 0.0, "tool_err_rad": 8.429369702178808e-08}
+{"utc": "2026-11-16T05:46:47.273965+00:00", "pattern": "pickaxe", "event": 14, "grip": "open", "block": "blue0", "cell": "g00", "width_m": 0.06}
+{"utc": "2026-11-16T05:46:49.145593+00:00", "pattern": "pickaxe", "event": 15, "move": "place_g00_retreat", "tool_err_m": 0.0, "tool_err_rad": 5.960464477539064e-08}
+{"utc": "2026-11-16T05:46:51.763806+00:00", "pattern": "pickaxe", "event": 16, "move": "pick_sb2_approach", "tool_err_m": 0.0, "tool_err_rad": 6.322027276634106e-08}
+{"utc": "2026-11-16T05:46:53.962177+00:00", "pattern": "pickaxe", "event": 17, "move": "pick_sb2_descend", "tool_err_m": 0.0, "tool_err_rad": 8.429369702178808e-08}
+{"utc": "2026-11-16T05:46:53.962993+00:00", "pattern": "pickaxe", "event": 18, "grip": "close", "block": "blue2", "cell": "sb2", "width_m": 0.04}
+{"utc": "2026-11-16T05:46:56.228641+00:00", "pattern": "pickaxe", "event": 19, "move": "pick_sb2_lift", "tool_err_m": 0.0, "tool_err_rad": 6.322027276634106e-08}
+{"utc": "2026-11-16T05:47:00.794217+00:00", "pattern": "pickaxe", "event": 20, "move": "place_g01_transport", "tool_err_m": 0.0, "tool_err_rad": 7.300048299977716e-08}
+{"utc": "2026-11-16T05:47:02.673831+00:00", "pattern": "pickaxe", "event": 21, "move": "place_g01_descend", "tool_err_m": 0.0, "tool_err_rad": 6.664001874625058e-08}
+{"utc": "2026-11-16T05:47:02.674534+00:00", "pattern": "pickaxe", "event": 22, "grip": "open", "block": "blue2", "cell": "g01", "width_m": 0.06}
+{"utc": "2026-11-16T05:47:04.510787+00:00", "pattern": "pickaxe", "event": 23, "move": "place_g01_retreat", "tool_err_m": 0.0, "tool_err_rad": 7.300048299977716e-08}
+{"utc": "2026-11-16T05:47:09.564601+00:00", "pattern": "pickaxe", "event": 24, "move": "pick_sr0_approach", "tool_err_m": 0.0, "tool_err_rad": 4.2146848510894035e-08}
+{"utc": "2026-11-16T05:47:11.111178+00:00", "pattern": "pickaxe", "event": 25, "move": "pick_sr0_descend", "tool_err_m": 0.0, "tool_err_rad": 6.664001874625058e-08}
+{"utc": "2026-11-16T05:47:11.112373+00:00", "pattern": "pickaxe", "event": 26, "grip": "close", "block": "red0", "cell": "sr0", "width_m": 0.04}
+{"utc": "2026-11-16T05:47:12.698146+00:00", "pattern": "pickaxe", "event": 27, "move": "pick_sr0_lift", "tool_err_m": 0.0, "tool_err_rad": 4.2146848510894035e-08}
+{"utc": "2026-11-16T05:47:16.204376+00:00", "pattern": "pickaxe", "event": 28, "move": "place_g21_transport", "tool_err_m": 0.0, "tool_err_rad": 4.2146848510894035e-08}
+{"utc": "2026-11-16T05:47:20.410613+00:00", "pattern": "pickaxe", "event": 29, "move": "place_g21_descend", "tool_err_m": 0.0, "tool_err_rad": 5.575503985246929e-08}
+{"utc": "2026-11-16T05:47:20.412074+00:00", "pattern": "pickaxe", "event": 30, "grip": "open", "block": "red0", "cell": "g21", "width_m": 0.06}
+{"utc": "2026-11-16T05:47:24.535140+00:00", "pattern": "pickaxe", "event": 31, "move": "place_g21_retreat", "tool_err_m": 0.0, "tool_err_rad": 4.2146848510894035e-08}
+{"utc": "2026-11-16T05:47:26.764373+00:00", "pattern": "pickaxe", "event": 32, "move": "pick_sr2_approach", "tool_err_m": 0.0, "tool_err_rad": 1.0745380149674388e-07}
+{"utc": "2026-11-16T05:47:29.497055+00:00", "pattern": "pickaxe", "event": 33, "move": "pick_sr2_descend", "tool_err_m": 0.0, "tool_err_rad": 8.940696716308596e-08}
+{"utc": "2026-11-16T05:47:29.498458+00:00", "pattern": "pickaxe", "event": 34, "grip": "close", "block": "red2", "cell": "sr2", "width_m": 0.04}
+{"utc": "2026-11-16T05:47:32.308579+00:00", "pattern": "pickaxe", "event": 35, "move": "pick_sr2_lift", "tool_err_m": 0.0, "tool_err_rad": 1.0745380149674388e-07}
+{"utc": "2026-11-16T05:47:33.815793+00:00", "pattern": "pickaxe", "event": 36, "move": "place_g11_transport", "tool_err_m": 0.0, "tool_err_rad": 9.185692672385244e-08}
+{"utc": "2026-11-16T05:47:36.444580+00:00", "pattern": "pickaxe", "event": 37, "move": "place_g11_descend", "tool_err_m": 0.0, "tool_err_rad": 8.688795409866128e-08}
+{"utc": "2026-11-16T05:47:36.445170+00:00", "pattern": "pickaxe", "event": 38, "grip": "open", "block": "red2", "cell": "g11", "width_m": 0.06}
+{"utc": "2026-11-16T05:47:39.017607+00:00", "pattern": "pickaxe", "event": 39, "move": "place_g11_retreat", "tool_err_m": 0.0, "tool_err_rad": 9.185692672385244e-08}
+{"utc": "2026-11-16T05:47:50.535160+00:00", "pattern": "pickaxe", "event": 40, "move": "return_home", "tool_err_m": 0.0, "tool_err_rad": 6.989264130329237e-08}
+{"utc": "2026-11-16T05:47:50.535933+00:00", "pattern": "pickaxe", "status": "completed"}
+{"utc": "2026-11-16T05:47:50.536145+00:00", "pattern": "axe", "status": "skipped_infeasible"}
+{"utc": "2026-11-16T05:47:55.541840+00:00", "pattern": "box", "event": 0, "move": "pick_sb1_approach", "tool_err_m": 0.0, "tool_err_rad": 9.884312124119404e-08}
+{"utc": "2026-11-16T05:47:57.446222+00:00", "pattern": "box", "event": 1, "move": "pick_sb1_descend", "tool_err_m": 0.0, "tool_err_rad": 7.884953353001449e-08}
+{"utc": "2026-11-16T05:47:57.447742+00:00", "pattern": "box", "event": 2, "grip": "close", "block": "blue1", "cell": "sb1", "width_m": 0.04}
+{"utc": "2026-11-16T05:47:59.378772+00:00", "pattern": "box", "event": 3, "move": "pick_sb1_lift", "tool_err_m": 0.0, "tool_err_rad": 9.884312124119404e-08}
+{"utc": "2026-11-16T05:48:01.661413+00:00", "pattern": "box", "event": 4, "move": "place_g20_transport", "tool_err_m": 0.0, "tool_err_rad": 7.598131170262078e-08}
+{"utc": "2026-11-16T05:48:04.172925+00:00", "pattern": "box", "event": 5, "move": "place_g20_descend", "tool_err_m": 0.0, "tool_err_rad": 6.664001874625058e-08}
+{"utc": "2026-11-16T05:48:04.174256+00:00", "pattern": "box", "event": 6, "grip": "open", "block": "blue1", "cell": "g20", "width_m": 0.06}
+{"utc": "2026-11-16T05:48:06.630032+00:00", "pattern": "box", "event": 7, "move": "place_g20_retreat", "tool_err_m": 0.0, "tool_err_rad": 7.598131170262078e-08}
+{"utc": "2026-11-16T05:48:13.438745+00:00", "pattern": "box", "event": 8, "move": "pick_g11_approach", "tool_err_m": 0.0, "tool_err_rad": 2.9802322387695312e-08}
+{"utc": "2026-11-16T05:48:15.609380+00:00", "pattern": "box", "event": 9, "move": "pick_g11_descend", "tool_err_m": 0.0, "tool_err_rad": 5.960464477539064e-08}
+{"utc": "2026-11-16T05:48:15.610435+00:00", "pattern": "box", "event": 10, "grip": "close", "block": "red2", "cell": "g11", "width_m": 0.04}
+{"utc": "2026-11-16T05:48:17.914290+00:00", "pattern": "box", "event": 11, "move": "pick_g11_lift", "tool_err_m": 0.0, "tool_err_rad": 2.9802322387695312e-08}
+{"utc": "2026-11-16T05:48:18.802291+00:00", "pattern": "box", "event": 12, "move": "place_g10_transport", "tool_err_m": 0.0, "tool_err_rad": 8.429369702178808e-08}
+{"utc": "2026-11-16T05:48:21.051720+00:00", "pattern": "box", "event": 13, "move": "place_g10_descend", "tool_err_m": 0.0, "tool_err_rad": 8.940696716308596e-08}
+{"utc": "2026-11-16T05:48:21.053936+00:00", "pattern": "box", "event": 14, "grip": "open", "block": "red2", "cell": "g10", "width_m": 0.06}
+{"utc": "2026-11-16T05:48:23.252822+00:00", "pattern": "box", "event": 15, "move": "place_g10_retreat", "tool_err_m": 0.0, "tool_err_rad": 8.429369702178808e-08}
+{"utc": "2026-11-16T05:48:28.834891+00:00", "pattern": "box", "event": 16, "move": "pick_g01_approach", "tool_err_m": 0.0, "tool_err_rad": 5.960464477539064e-08}
+{"utc": "2026-11-16T05:48:30.801076+00:00", "pattern": "box", "event": 17, "move": "pick_g01_descend", "tool_err_m": 0.0, "tool_err_rad": 8.429369702178808e-08}
+{"utc": "2026-11-16T05:48:30.801802+00:00", "pattern": "box", "event": 18, "grip": "close", "block": "blue2", "cell": "g01", "width_m": 0.04}
+{"utc": "2026-11-16T05:48:32.759350+00:00", "pattern": "box", "event": 19, "move": "pick_g01_lift", "tool_err_m": 0.0, "tool_err_rad": 5.960464477539064e-08}
+{"utc": "2026-11-16T05:48:34.349214+00:00", "pattern": "box", "event": 20, "move": "place_g22_transport", "tool_err_m": 0.0, "tool_err_rad": 5.16191365590357e-08}
+{"utc": "2026-11-16T05:48:36.855424+00:00", "pattern": "box", "event": 21, "move": "place_g22_descend", "tool_err_m": 0.0, "tool_err_rad": 8.429369702178808e-08}
+{"utc": "2026-11-16T05:48:36.858153+00:00", "pattern": "box", "event": 22, "grip": "open", "block": "blue2", "cell": "g22", "width_m": 0.06}
+{"utc": "2026-11-16T05:48:39.338435+00:00", "pattern": "box", "event": 23, "move": "place_g22_retreat", "tool_err_m": 0.0, "tool_err_rad": 5.16191365590357e-08}
+{"utc": "2026-11-16T05:48:43.819598+00:00", "pattern": "box", "event": 24, "move": "pick_sr1_approach", "tool_err_m": 0.0, "tool_err_rad": 7.300048299977716e-08}
+{"utc": "2026-11-16T05:48:45.708072+00:00", "pattern": "box", "event": 25, "move": "pick_sr1_descend", "tool_err_m": 0.0, "tool_err_rad": 7.300048299977716e-08}
+{"utc": "2026-11-16T05:48:45.709463+00:00", "pattern": "box", "event": 26, "grip": "close", "block": "red1", "cell": "sr1", "width_m": 0.04}
+{"utc": "2026-11-16T05:48:47.680724+00:00", "pattern": "box", "event": 27, "move": "pick_sr1_lift", "tool_err_m": 0.0, "tool_err_rad": 7.300048299977716e-08}
+{"utc": "2026-11-16T05:48:52.111524+00:00", "pattern": "box", "event": 28, "move": "place_g01_transport", "tool_err_m": 0.0, "tool_err_rad": 8.429369702178808e-08}
+{"utc": "2026-11-16T05:48:54.010134+00:00", "pattern": "box", "event": 29, "move": "place_g01_descend", "tool_err_m": 0.0, "tool_err_rad": 7.300048299977716e-08}
+{"utc": "2026-11-16T05:48:54.010682+00:00", "pattern": "box", "event": 30, "grip": "open", "block": "red1", "cell": "g01", "width_m": 0.06}
+{"utc": "2026-11-16T05:48:55.867659+00:00", "pattern": "box", "event": 31, "move": "place_g01_retreat", "tool_err_m": 0.0, "tool_err_rad": 8.429369702178808e-08}
+{"utc": "2026-11-16T05:48:59.768677+00:00", "pattern": "box", "event": 32, "move": "pick_sr3_approach", "tool_err_m": 0.0, "tool_err_rad": 6.989264130329237e-08}
+{"utc": "2026-11-16T05:49:02.477082+00:00", "pattern": "box", "event": 33, "move": "pick_sr3_descend", "tool_err_m": 0.0, "tool_err_rad": 5.960464477539064e-08}
+{"utc": "2026-11-16T05:49:02.478133+00:00", "pattern": "box", "event": 34, "grip": "close", "block": "red3", "cell": "sr3", "width_m": 0.04}
+{"utc": "2026-11-16T05:49:05.236511+00:00", "pattern": "box", "event": 35, "move": "pick_sr3_lift", "tool_err_m": 0.0, "tool_err_rad": 6.989264130329237e-08}
+{"utc": "2026-11-16T05:49:07.770227+00:00", "pattern": "box", "event": 36, "move": "place_g12_transport", "tool_err_m": 0.0, "tool_err_rad": 7.884953353001449e-08}
+{"utc": "2026-11-16T05:49:09.961503+00:00", "pattern": "box", "event": 37, "move": "place_g12_descend", "tool_err_m": 0.0, "tool_err_rad": 8.940696716308596e-08}
+{"utc": "2026-11-16T05:49:09.963260+00:00", "pattern": "box", "event": 38, "grip": "open", "block": "red3", "cell": "g12", "width_m": 0.06}
+{"utc": "2026-11-16T05:49:12.108982+00:00", "pattern": "box", "event": 39, "move": "place_g12_retreat", "tool_err_m": 0.0, "tool_err_rad": 7.884953353001449e-08}
+{"utc": "2026-11-16T05:49:16.631541+00:00", "pattern": "box", "event": 40, "move": "return_home", "tool_err_m": 0.0, "tool_err_rad": 6.989264130329237e-08}
+{"utc": "2026-11-16T05:49:16.631704+00:00", "pattern": "box", "status": "completed"}
+{"utc": "2026-11-16T05:49:21.180465+00:00", "pattern": "bow", "event": 0, "move": "pick_g10_approach", "tool_err_m": 0.0, "tool_err_rad": 9.424321830774487e-08}
+{"utc": "2026-11-16T05:49:23.330208+00:00", "pattern": "bow", "event": 1, "move": "pick_g10_descend", "tool_err_m": 0.0, "tool_err_rad": 8.161702118890975e-08}
+{"utc": "2026-11-16T05:49:23.331782+00:00", "pattern": "bow", "event": 2, "grip": "close", "block": "red2", "cell": "g10", "width_m": 0.04}
+{"utc": "2026-11-16T05:49:25.522077+00:00", "pattern": "bow", "event": 3, "move": "pick_g10_lift", "tool_err_m": 0.0, "tool_err_rad": 9.424321830774487e-08}
+{"utc": "2026-11-16T05:49:26.621676+00:00", "pattern": "bow", "event": 4, "move": "place_sr2_transport", "tool_err_m": 0.0, "tool_err_rad": 6.664001874625058e-08}
+{"utc": "2026-11-16T05:49:28.878767+00:00", "pattern": "bow", "event": 5, "move": "place_sr2_descend", "tool_err_m": 0.0, "tool_err_rad": 9.884312124119404e-08}
+{"utc": "2026-11-16T05:49:28.879655+00:00", "pattern": "bow", "event": 6, "grip": "open", "block": "red2", "cell": "sr2", "width_m": 0.06}
+{"utc": "2026-11-16T05:49:31.095074+00:00", "pattern": "bow", "event": 7, "move": "place_sr2_retreat", "tool_err_m": 0.0, "tool_err_rad": 6.664001874625058e-08}
+{"utc": "2026-11-16T05:49:33.186450+00:00", "pattern": "bow", "event": 8, "move": "pick_g12_approach", "tool_err_m": 0.0, "tool_err_rad": 9.884312124119404e-08}
+{"utc": "2026-11-16T05:49:35.324377+00:00", "pattern": "bow", "event": 9, "move": "pick_g12_descend", "tool_err_m": 0.0, "tool_err_rad": 8.161702118890975e-08}
+{"utc": "2026-11-16T05:49:35.325271+00:00", "pattern": "bow", "event": 10, "grip": "close", "block": "red3", "cell": "g12", "width_m": 0.04}
+{"utc": "2026-11-16T05:49:37.522585+00:00", "pattern": "bow", "event": 11, "move": "pick_g12_lift", "tool_err_m": 0.0, "tool_err_rad": 9.884312124119404e-08}
+{"utc": "2026-11-16T05:49:39.391476+00:00", "pattern": "bow", "event": 12, "move": "place_sr1_transport", "tool_err_m": 0.0, "tool_err_rad": 7.300048299977716e-08}
+{"utc": "2026-11-16T05:49:41.314038+00:00", "pattern": "bow", "event": 13, "move": "place_sr1_descend", "tool_err_m": 0.0, "tool_err_rad": 7.884953353001449e-08}
+{"utc": "2026-11-16T05:49:41.315538+00:00", "pattern": "bow", "event": 14, "grip": "open", "block": "red3", "cell": "sr1", "width_m": 0.06}
+{"utc": "2026-11-16T05:49:43.205750+00:00", "pattern": "bow", "event": 15, "move": "place_sr1_retreat", "tool_err_m": 0.0, "tool_err_rad": 7.300048299977716e-08}
+{"utc": "2026-11-16T05:49:47.854430+00:00", "pattern": "bow", "event": 16, "move": "pick_g22_approach", "tool_err_m": 0.0, "tool_err_rad": 9.424321830774487e-08}
+{"utc": "2026-11-16T05:49:50.317570+00:00", "pattern": "bow", "event": 17, "move": "pick_g22_descend", "tool_err_m": 0.0, "tool_err_rad": 8.429369702178808e-08}
+{"utc": "2026-11-16T05:49:50.318437+00:00", "pattern": "bow", "event": 18, "grip": "close", "block": "blue2", "cell": "g22", "width_m": 0.04}
+{"utc": "2026-11-16T05:49:52.832990+00:00", "pattern": "bow", "event": 19, "move": "pick_g22_lift", "tool_err_m": 0.0, "tool_err_rad": 9.424321830774487e-08}
+{"utc": "2026-11-16T05:49:58.168378+00:00", "pattern": "bow", "event": 20, "move": "place_g10_transport", "tool_err_m": 0.0, "tool_err_rad": 6.989264130329237e-08}
+{"utc": "2026-11-16T05:50:00.363529+00:00", "pattern": "bow", "event": 21, "move": "place_g10_descend", "tool_err_m": 0.0, "tool_err_rad": 5.16191365590357e-08}
+{"utc": "2026-11-16T05:50:00.365505+00:00", "pattern": "bow", "event": 22, "grip": "open", "block": "blue2", "cell": "g10", "width_m": 0.06}
+{"utc": "2026-11-16T05:50:02.508126+00:00", "pattern": "bow", "event": 23, "move": "place_g10_retreat", "tool_err_m": 0.0, "tool_err_rad": 6.989264130329237e-08}
+{"utc": "2026-11-16T05:50:07.602598+00:00", "pattern": "bow", "event": 24, "move": "pick_g02_approach", "tool_err_m": 0.0, "tool_err_rad": 6.664001874625058e-08}
+{"utc": "2026-11-16T05:50:09.550062+00:00", "pattern": "bow", "event": 25, "move": "pick_g02_descend", "tool_err_m": 0.0, "tool_err_rad": 7.300048299977716e-08}
+{"utc": "2026-11-16T05:50:09.550942+00:00", "pattern": "bow", "event": 26, "grip": "close", "block": "blue3", "cell": "g02", "width_m": 0.04}
+{"utc": "2026-11-16T05:50:11.498464+00:00", "pattern": "bow", "event": 27, "move": "pick_g02_lift", "tool_err_m": 0.0, "tool_err_rad": 6.664001874625058e-08}
+{"utc": "2026-11-16T05:50:13.496920+00:00", "pattern": "bow", "event": 28, "move": "place_sb3_transport", "tool_err_m": 0.0, "tool_err_rad": 7.300048299977716e-08}
+{"utc": "2026-11-16T05:50:16.214548+00:00", "pattern": "bow", "event": 29, "move": "place_sb3_descend", "tool_err_m": 0.0, "tool_err_rad": 5.16191365590357e-08}
+{"utc": "2026-11-16T05:50:16.215654+00:00", "pattern": "bow", "event": 30, "grip": "open", "block": "blue3", "cell": "sb3", "width_m": 0.06}
+{"utc": "2026-11-16T05:50:18.836186+00:00", "pattern": "bow", "event": 31, "move": "place_sb3_retreat", "tool_err_m": 0.0, "tool_err_rad": 7.300048299977716e-08}
+{"utc": "2026-11-16T05:50:21.677509+00:00", "pattern": "bow", "event": 32, "move": "pick_sr2_approach", "tool_err_m": 0.0, "tool_err_rad": 5.960464477539064e-08}
+{"utc": "2026-11-16T05:50:23.800291+00:00", "pattern": "bow", "event": 33, "move": "pick_sr2_descend", "tool_err_m": 0.0, "tool_err_rad": 8.429369702178808e-08}
+{"utc": "2026-11-16T05:50:23.801435+00:00", "pattern": "bow", "event": 34, "grip": "close", "block": "red2", "cell": "sr2", "width_m": 0.04}
+{"utc": "2026-11-16T05:50:26.011157+00:00", "pattern": "bow", "event": 35, "move": "pick_sr2_lift", "tool_err_m": 0.0, "tool_err_rad": 5.960464477539064e-08}
+{"utc": "2026-11-16T05:50:28.090806+00:00", "pattern": "bow", "event": 36, "move": "place_g12_transport", "tool_err_m": 0.0, "tool_err_rad": 8.429369702178808e-08}
+{"utc": "2026-11-16T05:50:30.192949+00:00", "pattern": "bow", "event": 37, "move": "place_g12_descend", "tool_err_m": 0.0, "tool_err_rad": 8.161702118890975e-08}
+{"utc": "2026-11-16T05:50:30.193469+00:00", "pattern": "bow", "event": 38, "grip": "open", "block": "red2", "cell": "g12", "width_m": 0.06}
+{"utc": "2026-11-16T05:50:32.239826+00:00", "pattern": "bow", "event": 39, "move": "place_g12_retreat", "tool_err_m": 0.0, "tool_err_rad": 8.429369702178808e-08}
+{"utc": "2026-11-16T05:50:36.609676+00:00", "pattern": "bow", "event": 40, "move": "return_home", "tool_err_m": 0.0, "tool_err_rad": 6.989264130329237e-08}
+{"utc": "2026-11-16T05:50:36.610017+00:00", "pattern": "bow", "status": "completed"}
+{"utc": "2026-11-16T05:50:36.610128+00:00", "status": "session_completed"}

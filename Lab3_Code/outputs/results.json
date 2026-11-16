@@ -1,0 +1,116 @@
+[
+  {
+    "pattern": "pickaxe",
+    "status": "done",
+    "symbolic_actions": [
+      "pick(sr3, red, x)",
+      "place(g11, red, x)",
+      "pick(sb3, blue, y)",
+      "place(g01, blue, y)",
+      "pick(sr1, red, x)",
+      "place(g21, red, y)",
+      "pick(sb1, blue, y)",
+      "place(g02, blue, x)",
+      "pick(sb2, blue, x)",
+      "place(g00, blue, x)"
+    ],
+    "executed": [
+      "pick(red3, sr3, axis=x)",
+      "place(red3, g11, axis=x)",
+      "pick(blue3, sb3, axis=y)",
+      "place(blue3, g01, axis=y)",
+      "pick(red1, sr1, axis=x)",
+      "place(red1, g21, axis=y)",
+      "pick(blue1, sb1, axis=y)",
+      "place(blue1, g02, axis=x)",
+      "pick(blue2, sb2, axis=x)",
+      "place(blue2, g00, axis=x)"
+    ],
+    "replans": 0,
+    "plan_seconds": 0.0,
+    "sim_time_end": 68.04000000002283,
+    "final_grid": "BBB\n.R.\n.R.",
+    "drift": [],
+    "reason": ""
+  },
+  {
+    "pattern": "axe",
+    "status": "infeasible",
+    "symbolic_actions": [],
+    "executed": [],
+    "replans": 0,
+    "plan_seconds": 0.0,
+    "sim_time_end": 0.0,
+    "final_grid": "BBB\n.R.\n.R.",
+    "drift": [],
+    "reason": "no symbolic plan; pattern skipped"
+  },
+  {
+    "pattern": "box",
+    "status": "done",
+    "symbolic_actions": [
+      "pick(sb0, blue, x)",
+      "place(g20, blue, x)",
+      "pick(g11, red, y)",
+      "place(g10, red, y)",
+      "pick(g01, blue, x)",
+      "place(g22, blue, x)",
+      "pick(sr0, red, x)",
+      "place(g01, red, x)",
+      "pick(sr2, red, y)",
+      "place(g12, red, y)"
+    ],
+    "executed": [
+      "pick(blue0, sb0, axis=x)",
+      "place(blue0, g20, axis=x)",
+      "pick(red3, g11, axis=y)",
+      "place(red3, g10, axis=y)",
+      "pick(blue3, g01, axis=x)",
+      "place(blue3, g22, axis=x)",
+      "pick(red0, sr0, axis=x)",
+      "place(red0, g01, axis=x)",
+      "pick(red2, sr2, axis=y)",
+      "place(red2, g12, axis=y)"
+    ],
+    "replans": 0,
+    "plan_seconds": 0.0,
+    "sim_time_end": 136.70599999992464,
+    "final_grid": "BRB\nR.R\nBRB",
+    "drift": [],
+    "reason": ""
+  },
+  {
+    "pattern": "bow",
+    "status": "done",
+    "symbolic_actions": [
+      "pick(g10, red, y)",
+      "place(sr3, red, x)",
+      "pick(g12, red, y)",
+      "place(sr1, red, x)",
+      "pick(g02, blue, x)",
+      "place(g10, blue, y)",
+      "pick(g22, blue, x)",
+      "place(sb0, blue, x)",
+      "pick(sr3, red, x)",
+      "place(g12, red, x)"
+    ],
+    "executed": [
+      "pick(red3, g10, axis=y)",
+      "place(red3, sr3, axis=x)",
+      "pick(red2, g12, axis=y)",
+      "place(red2, sr1, axis=x)",
+      "pick(blue1, g02, axis=x)",
+      "place(blue1, g10, axis=y)",
+      "pick(blue3, g22, axis=x)",
+      "place(blue3, sb0, axis=x)",
+      "pick(red3, sr3, axis=x)",
+      "place(red3, g12, axis=x)"
+    ],
+    "replans": 0,
+    "plan_seconds": 0.0,
+    "sim_time_end": 213.21800000028998,
+    "final_grid": "BR.\nB.R\nBR.",
+    "drift": [],
+    "reason": ""
+  }
+]

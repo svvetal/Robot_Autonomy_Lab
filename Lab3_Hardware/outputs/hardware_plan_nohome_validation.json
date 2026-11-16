@@ -1,0 +1,8 @@
+{
+ "schema": 1,
+ "plan_sha256": "24ab78116d05abaefe5779c702ca7a66992327137a8ef5898bce58a7e2e7a2ef",
+ "sim_sources_sha256": "dbef31860789b005c78f2fb9940f49c825b0232ab0f569ca649b1a28ed39a71a",
+ "verified_samples": 12094,
+ "result": "offline_mujoco_collision_validation_passed",
+ "warning": "Not proof of real-world alignment or physical safety"
+}

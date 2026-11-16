@@ -1,0 +1,64 @@
+Plan: seed 13, created 2026-11-16T19:32:11.482894+00:00
+Layout: {"grid_center_xy": [0.5, 0.0], "grid_pitch": 0.055, "side_x": [0.62, 0.54, 0.46, 0.38], "side_y": 0.17, "table_top_z": 0.012, "block_z": 0.035, "override_file": "/home/shubham/CMU_MRSD_Sem1/Robot_Autonomy/Homework/LAB3/Lab3_Code/table_layout.json"}
+
+== pickaxe [done]  30 moves, 52 s at sim speed
+      pick(sb3, blue, x)
+      place(g02, blue, y)
+      pick(sb0, blue, y)
+      place(g00, blue, y)
+      pick(sb2, blue, y)
+      place(g01, blue, x)
+      pick(sr0, red, y)
+      place(g21, red, y)
+      pick(sr2, red, y)
+      place(g11, red, y)
+   far side (+x)
+ .   BBB   .
+ R   .R.   B
+ .   .R.   .
+ R         .
+  left(+y)  right(-y)   [robot]
+
+== axe [infeasible]  0 moves, 0 s at sim speed
+   far side (+x)
+ .   BBB   .
+ R   .R.   B
+ .   .R.   .
+ R         .
+  left(+y)  right(-y)   [robot]
+
+== box [done]  30 moves, 57 s at sim speed
+      pick(sb1, blue, x)
+      place(g20, blue, x)
+      pick(g11, red, y)
+      place(g10, red, y)
+      pick(g01, blue, x)
+      place(g22, blue, x)
+      pick(sr1, red, y)
+      place(g01, red, x)
+      pick(sr3, red, y)
+      place(g12, red, y)
+   far side (+x)
+ .   BRB   .
+ .   R.R   .
+ .   BRB   .
+ .         .
+  left(+y)  right(-y)   [robot]
+
+== bow [done]  31 moves, 54 s at sim speed
+      pick(g10, red, y)
+      place(sr2, red, y)
+      pick(g12, red, y)
+      place(sr1, red, y)
+      pick(g22, blue, x)
+      place(g10, blue, y)
+      pick(g02, blue, x)
+      place(sb3, blue, x)
+      pick(sr2, red, y)
+      place(g12, red, y)
+   far side (+x)
+ .   BR.   .
+ R   B.R   .
+ .   BR.   .
+ .         B
+  left(+y)  right(-y)   [robot]
